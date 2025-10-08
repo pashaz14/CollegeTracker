@@ -1,0 +1,1 @@
+ I want to create an application for high school students that helps them. Figure out the submission deadline for common apps for any college and let them know what requirements and what needs to be submitted for that specific college. I want to be an iPhone app and I want that iPhone app to use dart and flutter frameworks
